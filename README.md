@@ -2,7 +2,8 @@
 
 https://github.com/tomlinmi/Project-WeLoveMoviesBE.git
 
-Deployed app: https://id.heroku.com/login
+Deployed app: https://git.heroku.com/boiling-woodland-20073.git
+
 
 This is the backend application for the WeLoveMovie!! App.  The Front End application can be found at: https://github.com/tomlinmi/project-movie-front-end
 
